@@ -38,10 +38,7 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 
 #### 🛠️ **Tech Stack**
-<p align="left" style="background-color: grey; padding: 20px; border-radius: 10px; margin-top: 20px;"> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Excel_Logo_2013.svg" alt="Excel" width="50" height="50" /> 
-  </a> 
+<p align="left" style="background-color: grey; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" /> 
   </a> 
