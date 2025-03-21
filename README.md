@@ -13,20 +13,20 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 ### Dashboard Overview 
 
-#### **Home Page:- ** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
+#### Home Page:-  When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
 ![image](https://i.postimg.cc/rmtDscMR/Shield-Insurance-page-0001.jpg)
 
-#### **General Analysis:- ** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
+#### General Analysis:-  Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
 
 ![image](https://i.postimg.cc/281K5KZR/Shield-Insurance-page-0002.jpg)
 
 
-#### **Sales Mode Analysis:- ** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
+#### Sales Mode Analysis:-  Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
 
 ![image](https://i.postimg.cc/J7DFrFJw/Shield-Insurance-page-0003.jpg)
 
-#### **Age Group Analysis:- ** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
+#### Customer Analysis:-  Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
 
 ![image](https://i.postimg.cc/QMCb6BJL/Shield-Insurance-page-0004.jpg)
 
