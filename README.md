@@ -5,8 +5,6 @@ This project is a part of the virtual Internship at AtliQ Technologies.
 
 **Dashboard Link -** [https://shorturl.at/K202y]
 
-**Presentation Link -** https://youtu.be/0X7_jvhcny8
-
 ## Project Overview-
 
 Shield Insurance, an insurance provider, operates across five major cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
@@ -15,41 +13,44 @@ They utilize various sales channels to reach their customers, including Offline 
 
 My task was to assist Shield Insurance in making data-driven decisions by analyzing their data from November 2022 to April 2023.
 
-## Data Sets and Data Model - 
-
-3 Dimension Tables and 2 Fact tables were provided to me and I worked on a Star Schema 
-
-* Dim_customer
-* Dim_date
-* Dim_policies
-
-* Fact_premiums
-* Fact_settlements
-
-
-Shiled Insurance Data Model
-![image](https://github.com/user-attachments/assets/92a88df6-1ae2-4f1a-8fb1-e6739c06c344)
-
 ## Dashboard Overview - 
 
 ### **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
-![image](https://github.com/user-attachments/assets/ae5b92df-d55d-4e45-a84e-0daa75ed0ea0)
+![image](https://i.postimg.cc/rmtDscMR/Shield-Insurance-page-0001.jpg)
 
 ### **General Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
 
-![image](https://github.com/user-attachments/assets/94e436f0-83d8-475e-8821-813b28b68f2e)
+![image](https://i.postimg.cc/281K5KZR/Shield-Insurance-page-0002.jpg)
 
 
 ### **Sales Mode Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
 
-![image](https://github.com/user-attachments/assets/c823cb8e-2951-4896-a7cd-fbde6e54ecf1)
+![image](https://i.postimg.cc/J7DFrFJw/Shield-Insurance-page-0003.jpg)
 
 ### **Age Group Analysis -** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
 
-![image](https://github.com/user-attachments/assets/8b751030-12fc-4105-969f-937c74116e0c)
+![image](https://i.postimg.cc/QMCb6BJL/Shield-Insurance-page-0004.jpg)
+
+#### 📫 **How to Reach Me**
+- 📧 Email: [monis.engineer@gmail.com](mailto:monis.engineer@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/meetmonis](https://www.linkedin.com/in/meetmonis)
 
 
+#### 🛠️ **Tech Stack**
+<p align="left" style="background-color: grey; padding: 20px; border-radius: 10px; margin-top: 20px;"> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Excel_Logo_2013.svg" alt="Excel" width="50" height="50" /> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" /> 
+  </a> 
+</p>
+
+---
+
+#### 🌟 **Show Your Support**
+If you find my work interesting, give it a ⭐️ on GitHub!
 
 
 
